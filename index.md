@@ -2,4 +2,4 @@
 
 [假期](/blogs/vacation)
 
-[跑步这件小事](blogs/running)
+[跑步这件小事](/blogs/running)
