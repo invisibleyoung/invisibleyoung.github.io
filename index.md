@@ -3,3 +3,6 @@
 [假期](/blogs/vacation)
 
 [跑步这件小事](/blogs/running)
+
+[记几个没有遇到过的问题的解决思路](/blogs/20201014)
+
